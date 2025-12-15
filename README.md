@@ -10,8 +10,8 @@ contact lookup backend.
 It enables:
 - Automatic lookup by ANI (incoming phone number)
 - Manual search by name or number
-- Modern, lightweight UI
-- Deployment without VPN using public HTTPS
+- lightweight UI
+- Deployment without VPN using public **LOCAL** HTTP 
 
 ## Supported Systems
 - estos MetaDirectory 6.x (Windows)

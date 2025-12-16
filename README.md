@@ -1,8 +1,6 @@
 # EstosMDLocal
 Placetel Webex x Estos MetaDirectory LOCAL server for Customer Assist Users 
 
-https://user-images.githubusercontent.com/.../demo.mp4
-
 # Placetel × estos MetaDirectory – Webex Screen Pop
 
 This repository provides a ready-to-use **Number Panel Screen Pop**

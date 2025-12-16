@@ -8,8 +8,8 @@ Run this command
     netsh advfirewall firewall add rule name="MetaDirectory HTTP 80" dir=in action=allow protocol=TCP localport=80
 Make sure to change the port number to the port number you have
 #### HTTPS (Certificate Configured)
-If you'Re using **https**
     netsh advfirewall firewall add rule name="MetaDirectory HTTPS 443" dir=in action=allow protocol=TCP localport=443
+
 Make sure to Update port number to the port number you have
 
 ## Checking ANI = +49....

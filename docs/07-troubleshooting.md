@@ -4,10 +4,9 @@ Open Powershell as Adminitrator
 
 ![Screen Pop Config](../screenshots/7_1.png)
 
-Run this command    
-
 ![Screen Pop Config](../screenshots/7_2.png)
 
+Run the command below depending if you have HTTP or HTTPS !
 ### Locally HTTP (No Certificate)
     netsh advfirewall firewall add rule name="MetaDirectory HTTP 80" dir=in action=allow protocol=TCP localport=80
 Make sure to change the port number to the port number you have

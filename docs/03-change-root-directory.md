@@ -5,7 +5,7 @@
 2. Set path to our newly created Path:
    C:\Users\<yourUserName>\Desktop\MetaDirectoryWeb\wwwroot
    ![Set wwwwroot Path](../screenshots/3_1.png)
-   ![Set wwwwroot Path](../screenshots/3_1_1.png)
+   ![Set wwwwroot Path](../screenshots/3_1_1.PNG)
 3. Save your changes
    Klick on **Übernehmen**
    ![Save Changes](../screenshots/3_2.png)

@@ -2,9 +2,9 @@
 
 1. In MetaDirectory Web Server settings
 2. Open **HTTP Header**"
-    ![Open HTTP Header](../screenshots/3_2.png)
+    ![Open HTTP Header](../screenshots/4_2.png)
 3. Select **Content-Security-Policy**
-    ![Header Content-Security-Policy](../screenshots/3_2.png)
+    ![Header Content-Security-Policy](../screenshots/4_3.PNG)
 4. Remove the Existing entries (Delete them all)
 5. Set the new Content-Security-Policy:
     1. You must type the text below you cannot copy and paste **(Do not create new line - write all in one line!)**

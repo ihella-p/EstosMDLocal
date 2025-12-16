@@ -9,5 +9,5 @@
    - numberPanel.css
 
 3. Test access:
-   http://<server>/custom/numberPanel.html
+   http://<!server>/custom/numberPanel.html
 

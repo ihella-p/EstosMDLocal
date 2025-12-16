@@ -1,7 +1,7 @@
 ## Enable MetaDirectory Web Server
 
 1. Open MetaDirectory Administrator
-![Open MetaDirectory](../screenshots/2_1.png)
+![Open MetaDirectory](screenshots/2_1.png)
 
 2. Go to Services → Web Server
 3. Enable the Web Server

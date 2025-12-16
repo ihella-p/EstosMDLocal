@@ -2,14 +2,14 @@
 Make your Webpage accessible for other Laptops and Browsers on your Network (e.g. Mac, Safari)
 Open Powershell as Adminitrator 
     ![Screen Pop Config](../screenshots/7_1.png)
-Run this command
+Run this command    
     ![Screen Pop Config](../screenshots/7_2.png)
 ### Locally HTTP (No Certificate)
-netsh advfirewall firewall add rule name="MetaDirectory HTTP 80" dir=in action=allow protocol=TCP localport=80
+    netsh advfirewall firewall add rule name="MetaDirectory HTTP 80" dir=in action=allow protocol=TCP localport=80
 Make sure to change the port number to the port number you have
 #### HTTPS (Certificate Configured)
 If you'Re using **https**
-netsh advfirewall firewall add rule name="MetaDirectory HTTPS 443" dir=in action=allow protocol=TCP localport=443
+    netsh advfirewall firewall add rule name="MetaDirectory HTTPS 443" dir=in action=allow protocol=TCP localport=443
 Make sure to Update port number to the port number you have
 
 ## Checking ANI = +49....

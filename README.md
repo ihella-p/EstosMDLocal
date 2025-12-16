@@ -32,9 +32,9 @@ Proceed to the setup guide:
 👉 `docs/01-prerequisites.md`
 
 ## Architecture
-![Architecture](../screenshots/md_0.png)
+![Architecture](screenshots/md_0.png)
 ## What to Expect after Configuration
 1. Receiving a Call through the Configured Queue 
-    ![Receiving a call through the queue](../screenshots/md_1.png)
+    ![Receiving a call through the queue](screenshots/md_1.png)
 2. Accepting a call -> resulting to openning a Browser window with the existing Contact data 
-    ![Screen Pop Result](../screenshots/md_2.png)
+    ![Screen Pop Result](screenshots/md_2.png)

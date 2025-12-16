@@ -12,8 +12,8 @@
 4. Setup the Screen pop
     ![Open Screen Pop](../screenshots/6_4.png)
     1. In Screen Pop URL write:  
-        https://<IP-Adress>/custom/numberPanel.html
-        The <IP-Adress> Is the WebService HTTP you configured and received from Metadirectory (In our Case it is my Local IPv4 from my lcoal Network for My Windows Laptop) -> Change that 
+        https://`IP-Adress`/custom/numberPanel.html
+        The `IP-Adress` Is the WebService HTTP you configured and received from Metadirectory (In our Case it is my Local IPv4 from my lcoal Network for My Windows Laptop) -> Change that 
     2. Give it a Name
     3. For Query Parameters enter:
         1. ANI : Under Key

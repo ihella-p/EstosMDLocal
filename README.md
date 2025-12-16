@@ -1,7 +1,7 @@
 # EstosMDLocal
 Placetel Webex x Estos MetaDirectory LOCAL server for Customer Assist Users 
 
-https://github.com/ihella-p/EstosMDLocal/blob/main/demo.mp4
+![Webex Screen Pop demo](screenshots/demo.gif)
 
 # Placetel × estos MetaDirectory – Webex Screen Pop
 

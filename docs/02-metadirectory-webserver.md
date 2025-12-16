@@ -8,12 +8,14 @@
 ![Enable WebServer](../screenshots/2_2.PNG)
 
 4. Set Port to 80 HTTP
+
     ![Check Port](../screenshots/2_3.PNG)
 
 5. Go to where you saved and installed your Metadirectory 
     1. if you followed the recommanded Setup you should find it in: 
         C:\Program Files\estos\MetaDirectory
         ![Copy folder wwwwroot](../screenshots/2_5.PNG)
+        
     2. Copy the whole folder **wwwwroot** to somewhere else that is not **read-only**
         In our case we copied to **Desktop** Under new Folder Called **MetaDirectoryWeb**
         The path now is: C:\Users\<yourUserName>\Desktop\MetaDirectoryWeb

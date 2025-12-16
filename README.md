@@ -4,7 +4,7 @@ Placetel Webex x Estos MetaDirectory LOCAL server for Customer Assist Users
 # Placetel × estos MetaDirectory – Webex Screen Pop
 
 This repository provides a ready-to-use **Number Panel Screen Pop**
-for Cisco Webex Contact Center using **estos MetaDirectory** as the
+for Webex Customer Assist using **estos MetaDirectory** as the
 contact lookup backend.
 
 It enables:
@@ -15,8 +15,8 @@ It enables:
 
 ## Supported Systems
 - estos MetaDirectory 6.x (Windows)
-- Cisco Webex Contact Center (Cloud)
-- Azure or AWS Windows Server VM
+- Webex Customer Assist Licenses
+- Azure or AWS Windows Server VM (Or Locally)
 
 ## What this repo contains
 - `/custom` → files to copy into MetaDirectory `wwwroot`

@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Number Panel</title>
+
+  <link href="/components/SourceSansPro/SourceSansPro.css" rel="stylesheet">
+  <link rel="stylesheet" href="/custom/numberPanel.css?v=1">
+  <script src="/custom/numberPanel.js?v=1" defer></script>
+</head>
+
+<body>
+  <div class="wrap">
+    <div class="top">
+      <div class="brand">Placetel x estos</div>
+
+      <div class="search">
+        <input id="q" placeholder="Type name or phone number, then Enter" autocomplete="off" />
+        <button id="go" type="button">Search</button>
+      </div>
+    </div>
+
+    <div class="hint">Searches MetaDirectory via /search.json and renders results locally.</div>
+
+    <div id="status" class="hint"></div>
+    <div id="out"></div>
+  </div>
+</body>
+</html>

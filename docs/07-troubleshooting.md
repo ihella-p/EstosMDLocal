@@ -25,7 +25,7 @@ netstat -ano | findstr :80
 netstat -ano | findstr :443
 ### Another Machine 
 open terminal or CMD or Powershell, change the server-ip with the weblink and run
-curl -v http://<server-ip>/
+curl -v http://<!server-ip>/
 ### Changing Network (WIFI)
 you must change your IPv4 Adress from the Webex Screen Pop Configuration
 

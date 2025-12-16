@@ -15,8 +15,8 @@ It enables:
 
 ## Supported Systems
 - estos MetaDirectory 6.x (Windows)
-- Cisco Webex Contact Center (Cloud)
-- Azure or AWS Windows Server VM
+- Webex Customer Assist Licenses
+- Azure or AWS Windows Server VM (Or Locally)
 
 ## What this repo contains
 - `/custom` → files to copy into MetaDirectory `wwwroot`
